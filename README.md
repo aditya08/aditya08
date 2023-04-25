@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [Academic Webpage](https://aditya08.github.io) 🌏
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya08&theme=vue-dark)
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya08&theme=vue-dark)-->
